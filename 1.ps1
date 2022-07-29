@@ -1,1 +1,1 @@
-echo "test" > c:/users/$env:USERNAME)/avnotsecurity.txt
+echo "test" > c:/users/$env:USERNAME/avnotsecurity.txt
