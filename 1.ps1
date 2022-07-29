@@ -1,1 +1,1 @@
-echo "test" > c:/temp/test.txt
+echo "test" > %userprofile%\avnotsecurty.txt
