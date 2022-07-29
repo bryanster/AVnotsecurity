@@ -30,4 +30,12 @@ the task is made to run the powershell script hidden.
 
 when the task runs every hour it wil download its latest script then run it.
 
-if i edit the
+because it redownloads the script if i edit it it will always run the latest version.
+
+in this powershell script that is downloaded from github we are mounting the azure storage account and then copying files from the computer to the storage acount.
+
+in this example we are copying the files to the storage account and then deleting them from the computer.
+
+The target file is key.pem but it could be multiple files
+
+script 1.ps1 now downloads the file and removes it without anti-virus giving a warning.
