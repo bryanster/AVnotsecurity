@@ -1,1 +1,1 @@
-echo "test" > %userprofile%\avnotsecurty.txt
+echo "test" > c:/users/%username%/avnotsecurity.txt
